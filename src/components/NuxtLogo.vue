@@ -17,3 +17,9 @@
   height: 180px;
 }
 </style>
+
+<script>
+export default {
+  name: 'NuxtLogo',
+}
+</script>
